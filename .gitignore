@@ -7,3 +7,17 @@ jarRepositories.xml
 .idea/sbt.xml
 .idea/vcs.xml
 .idea/codeStyles/codeStyleConfig.xml
+Hello.class
+HelloTest.class
+HelloTest.html
+index.html
+base-style.css
+style.css
+report.js
+TEST-HelloTest.xml
+build/reports/tests/test/packages/default-package.html
+build/test-results/test/binary/output.bin
+build/test-results/test/binary/output.bin.idx
+build/test-results/test/binary/results.bin
+src/test/java/HelloTest.java
+default-package.html
